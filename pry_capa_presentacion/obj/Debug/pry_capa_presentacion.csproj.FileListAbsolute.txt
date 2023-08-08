@@ -1,0 +1,391 @@
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe.config
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Properties.Resources.resources
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.exe
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_proveedor.resources
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CopyComplete
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_empleado.resources
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_principal.resources
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Login.resources
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_administrador.resources
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_almacen.resources
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_cliente.resources
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_producto.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_administrador.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_almacen.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_cliente.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_empleado.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_producto.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_proveedor.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_principal.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Login.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Properties.Resources.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.exe
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe.config
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\stdole.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe.config
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\stdole.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_administrador.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_almacen.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_cliente.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_empleado.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_producto.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_proveedor.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_principal.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Login.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.exe
+C:\Users\Alumno\Desktop\Nueva carpeta\GAAAAA\Segunda-parte\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe.config
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\stdole.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_administrador.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_almacen.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_cliente.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_empleado.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_producto.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_proveedor.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_principal.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Login.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado.resources
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.exe
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado_cod.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe.config
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\stdole.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_administrador.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_almacen.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_cliente.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_empleado.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_producto.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_proveedor.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_principal.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Login.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Properties.Resources.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado_cod.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CopyComplete
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.exe
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_producto_cod.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_cliente_nom.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_consulta_linq.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_MarkupCompile.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_MarkupCompile.lref
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.g.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_gerente.resources
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\from_login.g.cs
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\App.g.cs
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\from_login.baml
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\App.baml
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe.config
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.pdb
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\Guna.UI2.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\stdole.dll
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.pdb
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.pdb
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.pdb
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.AssemblyReference.cache
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.SuggestedBindingRedirects.cache
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\App.g.cs
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\from_login.g.cs
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_MarkupCompile.cache
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_MarkupCompile.lref
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\App.baml
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\from_login.baml
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.g.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_administrador.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_almacen.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_cliente.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_empleado.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_gerente.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_producto.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_proveedor.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_principal.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Login.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Properties.Resources.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_consulta_linq.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_cliente_nom.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado_cod.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_producto_cod.resources
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.GenerateResource.cache
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CoreCompileInputs.cache
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CopyComplete
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.exe
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.pdb
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\Resources\logo_dark.png
+E:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_Content.g.cs
+E:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\Resources\x_white_24.png
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\Resources\logo_dark.png
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\Resources\x_white_24.png
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe.config
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.pdb
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\Guna.UI2.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\stdole.dll
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.pdb
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.pdb
+D:\G1\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.pdb
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.AssemblyReference.cache
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.SuggestedBindingRedirects.cache
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\from_login.baml
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\App.g.cs
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\from_login.g.cs
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_Content.g.cs
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_MarkupCompile.cache
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_MarkupCompile.lref
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\App.baml
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.g.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_administrador.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_almacen.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_cliente.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_empleado.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_gerente.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_producto.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_proveedor.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_principal.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Login.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Properties.Resources.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_consulta_linq.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_cliente_nom.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado_cod.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_producto_cod.resources
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.GenerateResource.cache
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CoreCompileInputs.cache
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CopyComplete
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.exe
+D:\G1\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\Resources\logo_dark.png
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\bin\Debug\Resources\x_white_24.png
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_Content.g.cs
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\Resources\logo_dark.png
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\Resources\x_white_24.png
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe.config
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.exe
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_presentacion.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\stdole.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\bin\Debug\pry_capa_datos.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\from_login.baml
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\App.g.cs
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\from_login.g.cs
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_Content.g.cs
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_MarkupCompile.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion_MarkupCompile.lref
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\App.baml
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.g.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_administrador.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_almacen.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_cliente.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_empleado.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_gerente.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_producto.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_crud_proveedor.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.from_principal.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Login.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Properties.Resources.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_consulta_linq.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_cliente_nom.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_empleado_cod.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.Reportes.from_reporte_producto_cod.resources
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.csproj.CopyComplete
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.exe
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_presentacion\obj\Debug\pry_capa_presentacion.pdb
