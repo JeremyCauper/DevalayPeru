@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9A532D1-F488-486E-99E8-F58303561FC7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pry_capa_presentacion</RootNamespace>
+    <AssemblyName>pry_capa_presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.4\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ControladorControlers.cs" />
+    <Compile Include="cr_cliente.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_cliente.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cr_empleado.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_empleado.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cr_producto.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_producto.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ds_cliente.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ds_cliente.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ds_empleado.cs">
+      <DependentUpon>ds_empleado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ds_empleado.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ds_empleado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ds_producto.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ds_producto.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="from_crud_administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="from_crud_administrador.Designer.cs">
+      <DependentUpon>from_crud_administrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="from_crud_almacen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="from_crud_almacen.Designer.cs">
+      <DependentUpon>from_crud_almacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="from_crud_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="from_crud_cliente.Designer.cs">
+      <DependentUpon>from_crud_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="from_crud_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="from_crud_empleado.Designer.cs">
+      <DependentUpon>from_crud_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="from_crud_gerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="from_crud_gerente.Designer.cs">
+      <DependentUpon>from_crud_gerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="from_crud_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="from_crud_producto.Designer.cs">
+      <DependentUpon>from_crud_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="from_crud_proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="from_crud_proveedor.Designer.cs">
+      <DependentUpon>from_crud_proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="from_login.xaml.cs">
+      <DependentUpon>from_login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="from_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="from_principal.Designer.cs">
+      <DependentUpon>from_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\from_consulta_linq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\from_consulta_linq.Designer.cs">
+      <DependentUpon>from_consulta_linq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\from_reporte_cliente_nom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\from_reporte_cliente_nom.Designer.cs">
+      <DependentUpon>from_reporte_cliente_nom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\from_reporte_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\from_reporte_empleado.Designer.cs">
+      <DependentUpon>from_reporte_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\from_reporte_empleado_cod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\from_reporte_empleado_cod.Designer.cs">
+      <DependentUpon>from_reporte_empleado_cod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\from_reporte_producto_cod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\from_reporte_producto_cod.Designer.cs">
+      <DependentUpon>from_reporte_producto_cod.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cr_cliente.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_cliente.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cr_empleado.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_empleado.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cr_producto.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_producto.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="from_crud_administrador.resx">
+      <DependentUpon>from_crud_administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="from_crud_almacen.resx">
+      <DependentUpon>from_crud_almacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="from_crud_cliente.resx">
+      <DependentUpon>from_crud_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="from_crud_empleado.resx">
+      <DependentUpon>from_crud_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="from_crud_gerente.resx">
+      <DependentUpon>from_crud_gerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="from_crud_producto.resx">
+      <DependentUpon>from_crud_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="from_crud_proveedor.resx">
+      <DependentUpon>from_crud_proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="from_principal.resx">
+      <DependentUpon>from_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\from_consulta_linq.resx">
+      <DependentUpon>from_consulta_linq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\from_reporte_cliente_nom.resx">
+      <DependentUpon>from_reporte_cliente_nom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\from_reporte_empleado.resx">
+      <DependentUpon>from_reporte_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\from_reporte_empleado_cod.resx">
+      <DependentUpon>from_reporte_empleado_cod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\from_reporte_producto_cod.resx">
+      <DependentUpon>from_reporte_producto_cod.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ds_cliente.xsc">
+      <DependentUpon>ds_cliente.xsd</DependentUpon>
+    </None>
+    <None Include="ds_cliente.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ds_cliente.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ds_cliente.xss">
+      <DependentUpon>ds_cliente.xsd</DependentUpon>
+    </None>
+    <None Include="ds_empleado.xsc">
+      <DependentUpon>ds_empleado.xsd</DependentUpon>
+    </None>
+    <None Include="ds_empleado.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ds_empleado.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ds_empleado.xss">
+      <DependentUpon>ds_empleado.xsd</DependentUpon>
+    </None>
+    <None Include="ds_producto.xsc">
+      <DependentUpon>ds_producto.xsd</DependentUpon>
+    </None>
+    <None Include="ds_producto.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ds_producto.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ds_producto.xss">
+      <DependentUpon>ds_producto.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\pry_capa_entidad\pry_capa_entidad.csproj">
+      <Project>{dc96f831-fefe-43ee-9817-7aae06a056a2}</Project>
+      <Name>pry_capa_entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\pry_capa_negocio\pry_capa_negocio.csproj">
+      <Project>{c863d9f1-1c3f-4c36-83ed-90037f5072dc}</Project>
+      <Name>pry_capa_negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar_usuario_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disco_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basura_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hogar_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hogar_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar_usuario_primary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disco_success.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basura_warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hogar_danger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_gry_dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mantenimiento_cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mantenimiento_proveedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\logo_dark.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\x_white_24.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_icon_490.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item_seleccionado_primary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_dark_horizon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item_seleccionado_dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="from_login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\management.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
