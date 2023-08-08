@@ -1,0 +1,66 @@
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.AssemblyReference.cache
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CopyComplete
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.AssemblyReference.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.AssemblyReference.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CopyComplete
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.pdb
+E:\G1\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.dll
+E:\G1\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.pdb
+E:\G1\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.dll
+E:\G1\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.dll
+E:\G1\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.pdb
+E:\G1\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.pdb
+E:\G1\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.AssemblyReference.cache
+E:\G1\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CoreCompileInputs.cache
+E:\G1\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CopyComplete
+E:\G1\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.dll
+E:\G1\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_negocio.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_datos.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.AssemblyReference.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.csproj.CopyComplete
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_negocio\obj\Debug\pry_capa_negocio.pdb

@@ -1,0 +1,30 @@
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.dll
+C:\Users\Sistemas02\Desktop\clase10\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.dll
+C:\Users\Sistemas02\Desktop\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_entidad\bin\Debug\pry_capa_entidad.pdb
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.dll
+C:\Users\Dethwix\Desktop\Tareas Johan\4 SEMESTRE\DSIV\Seminario de complementacion de Practica I\SQL\DevanlayFinal\DevalayPeru\pry_capa_entidad\obj\Debug\pry_capa_entidad.pdb
